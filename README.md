@@ -3,13 +3,14 @@ Project overview:
 
 The core aim is to analyze Uber trip data including ride times, pickup/drop-off locations, revenue, distances, and vehicle types to identify key trends such as peak ride times, high-demand locations, customer preferences, and operational performance indicators.
 
+---
 Objectives & Outcomes:
 
 •	Help stakeholders optimize resource allocation, improve driver scheduling, and plan routes more efficiently.
 •	Uncover insights into rider behavior and service demand, supporting data-driven strategic decisions.
 •	Enhance understanding of ride-sharing performance trends for operational improvements and better customer experience.
 
-
+---
 Tools Used:
 
 
